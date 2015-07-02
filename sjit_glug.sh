@@ -1,8 +1,13 @@
 cmatrix -s
-toilet                        WELCOME TO SJIT GLUG !!
+toilet  -f future                      WELCOME TO SJIT GLUG !!
 sleep 1
 aafire
 clear
-fbi test.png
+fbi final_logo.png -a 
+sl 
+fbi poster.jpg -a 
+
+
+  
 
 
