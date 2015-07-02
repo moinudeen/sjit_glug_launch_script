@@ -1,4 +1,8 @@
 cmatrix -s
+toilet                        WELCOME TO SJIT GLUG !!
+sleep 1
+aafire
 clear
-echo -e '/n/n /t/t/t/t/t/ '
-toilet -f bigmono9 -F metal  WELCOME TO SJIT GLUG !!
+fbi logo13_1.png
+
+
